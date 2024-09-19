@@ -1,5 +1,5 @@
 ### Date created
-Date project was created: 5-27-2024
+Date project was created: 5-17-2024
 Date README file was last updated: 9-18-2024
 
 ### Project Title
